@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3314,
-    "timeDay": 3314,
-    "timeWeek": 3314,
-    "timeMonth": 3314,
-    "timeYear": 3314,
+    "time": 3266,
+    "timeDay": 3266,
+    "timeWeek": 3266,
+    "timeMonth": 3266,
+    "timeYear": 3266,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/certificacion.botfico.com.ico",
     "slug": "botfico-app",
     "status": "up",
-    "uptime": "1.66%",
-    "uptimeDay": "1.66%",
-    "uptimeWeek": "1.66%",
-    "uptimeMonth": "1.66%",
-    "uptimeYear": "1.66%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 267,
     "timeDay": 267,
     "timeWeek": 267,
     "timeMonth": 267,
     "timeYear": 267,
-    "dailyMinutesDown": {
-      "2023-09-30": 4
-    }
+    "dailyMinutesDown": {}
   }
 ]
