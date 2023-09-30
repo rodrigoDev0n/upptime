@@ -6,7 +6,7 @@ sites:
   - name: Botfico
     url: https://www.botfico.com
   - name: Botfico app
-    url: http://www.certificacion.botfico.com
+    url: http://certificacion.botfico.com/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -14,8 +14,8 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /upptime
   logoUrl: https://botfico.com/wp-content/uploads/2023/07/logo.png
-  name: Rodrigo Status pages
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
+  name: Botfico
+  introTitle: "Botfico status service"
   introMessage: Este servicio muestra el estado de la pagina web de botfico.
   navbar:
     - title: Status
