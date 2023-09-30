@@ -125,13 +125,13 @@ a.error-button {
 
 .submit-button {
   background: #01a3a4;
-  color: #fff;
+  color: #000;
   border-color: transparent;
 }
 
 body {
-  background: var(--body-background-color);
-  color: var(--body-text-color);
+  background: #fff;
+  color: #000;
 }
 
 code {
@@ -154,11 +154,11 @@ article.down-active {
 }
 article.degraded {
   border-left-color: var(--degraded-border-left-color) !important;
-  color: var(--degraded-color-color);
+  color: #000;
 }
 article.up {
   border-left-color: var(--up-border-left-color) !important;
-  color: var(--up-color-color);
+  color: #000;
 }
 
 .tag {
