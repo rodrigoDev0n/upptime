@@ -178,7 +178,7 @@ article.up {
 
 nav {
   border-bottom-color: var(--nav-border-bottom-color);
-  background: var(--nav-background-color);
+  background: #fff;
 }
 
 [aria-current] {
