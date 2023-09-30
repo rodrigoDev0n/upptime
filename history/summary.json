@@ -19,22 +19,22 @@
   },
   {
     "name": "Botfico app",
-    "url": "http://www.certificacion.botfico.com",
-    "icon": "https://icons.duckduckgo.com/ip3/www.certificacion.botfico.com.ico",
+    "url": "http://certificacion.botfico.com/",
+    "icon": "https://icons.duckduckgo.com/ip3/certificacion.botfico.com.ico",
     "slug": "botfico-app",
-    "status": "down",
-    "uptime": "15.64%",
-    "uptimeDay": "15.64%",
-    "uptimeWeek": "15.64%",
-    "uptimeMonth": "15.64%",
-    "uptimeYear": "15.64%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "1.66%",
+    "uptimeDay": "1.66%",
+    "uptimeWeek": "1.66%",
+    "uptimeMonth": "1.66%",
+    "uptimeYear": "1.66%",
+    "time": 267,
+    "timeDay": 267,
+    "timeWeek": 267,
+    "timeMonth": 267,
+    "timeYear": 267,
     "dailyMinutesDown": {
-      "2023-09-30": 0
+      "2023-09-30": 4
     }
   }
 ]
