@@ -130,7 +130,7 @@ a.error-button {
 }
 
 body {
-  background: #fff;
+  background: #019fe2;
   color: #000;
 }
 
@@ -140,7 +140,7 @@ code {
 }
 
 article {
-  background: var(--card-background-color);
+  background: #fff;
   border-color: var(--card-border-color);
 }
 
@@ -181,12 +181,12 @@ article.up {
 }
 
 nav {
-  border-bottom-color: var(--nav-border-bottom-color);
+  border-bottom-color: #019fe2;
   background: #fff;
 }
 
 [aria-current] {
-  border-bottom-color: var(--nav-current-border-bottom-color);
+  border-bottom-color: #019fe2;
 }
 
 a.error-button {
