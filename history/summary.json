@@ -4,19 +4,19 @@
     "url": "https://www.botfico.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.botfico.com.ico",
     "slug": "botfico",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 3191,
-    "timeDay": 1853,
-    "timeWeek": 3042,
-    "timeMonth": 3191,
-    "timeYear": 3191,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.59%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 3220,
+    "timeDay": 2503,
+    "timeWeek": 3126,
+    "timeMonth": 3220,
+    "timeYear": 3220,
     "dailyMinutesDown": {
-      "2023-10-13": 0
+      "2023-10-13": 6
     }
   },
   {
